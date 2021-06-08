@@ -3,7 +3,7 @@
 ## I'm a full stack engineer, hobby game dev and Linux enthusiast!
 - I'm currently learning SFML and game engine basics
 - I'm looking to learn more about Web Development
-- 2020 Goals: Contribute more to Open Source projects and build a small game with a custom game engine
+- 2021 Goals: Create a successful business and contribute more to Open Source projects.
 - Fun fact: I love to draw and play piano and guitar
 
 ### Connect with me:
