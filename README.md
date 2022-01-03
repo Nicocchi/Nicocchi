@@ -1,9 +1,8 @@
 ### Hi there, I'm Jeremy - aka [Nicocchi](https://jeremy-boggs.com/) 👋
 
-## I'm a full stack engineer, hobby game dev and Linux enthusiast!
-- I'm currently learning SFML and game engine basics
+## I'm a full stack engineer and Linux enthusiast!
 - I'm looking to learn more about Web Development
-- 2021 Goals: Create a successful business and contribute more to Open Source projects.
+- 2022 Goals: Create a successful business and contribute more to Open Source projects.
 - Fun fact: I love to draw and play piano and guitar
 
 ### Connect with me:
