@@ -2,7 +2,7 @@
 
 ## I'm a full stack engineer and Linux enthusiast!
 - I'm looking to learn more about Web Development
-- 2022 Goals: Create a successful business and contribute more to Open Source projects.
+- 2022 Goals: Create a successful career and contribute more to Open Source projects.
 - Fun fact: I love to draw and play piano and guitar
 
 ### Connect with me:
