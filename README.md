@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jeremy aka Nicocchi</h1>
+<h1 align="center">Hi 👋, I'm Jeremy aka Nicocchi</h1>
 <h3 align="center">I'm a full stack engineer and Linux enthusiast!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicocchi" alt="nicocchi" /></a> </p>
@@ -21,8 +21,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/nicocchi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nicocchi" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicocchi&show_icons=true&theme=dark&locale=en&layout=compact" alt="nicocchi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicocchi&show_icons=true&theme=dark&locale=en" alt="nicocchi" /></p>
 
