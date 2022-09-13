@@ -1,4 +1,4 @@
-![Web and Game Development](https://repository-images.githubusercontent.com/302617083/fb5cbc00-0a67-11eb-9c37-3f829f3f7382)
+![Web and Game Development](https://raw.githubusercontent.com/Nicocchi/Nicocchi/master/banner1.png)
 
 <h3 align="center">
   Welcome to Jeremy Boggs's profile!
