@@ -24,6 +24,16 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+## 📘 My top open source projects
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/Nicocchi/Yazawa-Nico"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=Nicocchi&repo=Yazawa-Nico&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/Nicocchi/MADR"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=Nicocchi&repo=MADR&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/Nicocchi/rougelike"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=Nicocchi&repo=rougelike&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+</p>
+
 ## Language and Tools
 
 ### 👨‍💻 Programming and markup languages
