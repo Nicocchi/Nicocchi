@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Jeremy Boggs's profile!
+  Welcome to Nicocchi's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
