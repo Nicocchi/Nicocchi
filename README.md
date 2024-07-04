@@ -22,7 +22,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-I like to make games and do other low level development.
+I like to make games, draw, and do other low level development.
 
 I am also a Linux enthusiest.
 
